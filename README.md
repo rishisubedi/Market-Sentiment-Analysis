@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-green)
 
 ## Overview
-This project serves as a foundational component for algorithmic trading strategies. By analyzing the sentiment (positive/negative polarity) of real-time tweets related to specific tickers or economic events, we can identify potential market movements correlated with public perception.
+This project serves as a foundational component for algorithmic trading strategies. By analyzing the sentiment (positive/negative polarity) of real-time tweets related to specific tickers or economic events, we can identify potential market movements correlated with public perception. As well, sentiment analysis is one of the best indicator of the market and can significantly influence the investor confident level as well. 
 
 ## Key Features
 - **Real-time Data Collection**: Fetches tweets using the Twitter API.
